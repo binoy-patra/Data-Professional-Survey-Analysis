@@ -23,6 +23,8 @@ The methodology involved several key steps:
 - **Dashboard Creation:** Develop interactive visualizations to present key insights.
 - **Insights Generation:** Analyze data to derive meaningful insights for decision-making.
 
+## Here is the dashboard: [PDF of Dashboard](https://github.com/binoy-patra/Data-Professional-Survey-Breakdown-Analysis/blob/main/Data%20Professional%20Survey%20Breakdown%20Dashboard.pdf)
+
 ## Key Insights:
 1. **Demographics:**
    - Majority of survey participants are from the United States, followed by India, UK, and Canada.
