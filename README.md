@@ -1,5 +1,17 @@
 # Data Professional Survey Breakdown Analysis
 
+# Table of Content
+
+1. [Introduction](#introduction)
+2. [Objective](#objective)
+3. [Dataset Overview](#dataset-overview)
+4. [Tools Used](#tools-used)
+5. [Methodology](#methodology)
+6. [Dashboard](#here-is-the-dashboard)
+7. [Insights](#insights)
+8. [Conclusion](#conclusion)
+9. [Contact Information](#contact-information)
+
 ## Introduction:
 The data analytics industry is dynamic and rapidly evolving, with a significant demand for skilled professionals. This report presents insights derived from a survey conducted among 630 data professionals, using Power BI for analysis and visualization. It aims to provide a detailed understanding of various aspects including demographics, career challenges, job satisfaction, and preferences within the industry.
 
@@ -23,7 +35,8 @@ The methodology involved several key steps:
 - **Dashboard Creation:** Develop interactive visualizations to present key insights.
 - **Insights Generation:** Analyze data to derive meaningful insights for decision-making.
 
-## Here is the dashboard: [PDF of Dashboard](https://github.com/binoy-patra/Data-Professional-Survey-Breakdown-Analysis/blob/main/Data%20Professional%20Survey%20Breakdown%20Dashboard.pdf)
+## Here is the dashboard: 
+**[PDF of Dashboard](https://github.com/binoy-patra/Data-Professional-Survey-Breakdown-Analysis/blob/main/Data%20Professional%20Survey%20Breakdown%20Dashboard.pdf)**
 
 ## Key Insights:
 1. **Demographics:**
